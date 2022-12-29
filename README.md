@@ -7,4 +7,4 @@
 
 #### 本仓库遵循[MIT](https://github.com/SmallK111407/img-folder/blob/main/LICENSE)协议
 
-![image.png](https://i.postimg.cc/4yCtqwLj/image.png)](https://postimg.cc/620yGVNh)
+![image.png](https://i.postimg.cc/4yCtqwLj/image.png)
