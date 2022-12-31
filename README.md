@@ -1,7 +1,7 @@
 
 #### 怪肉、鸡屎、徐建都的best like
 ---
-#### 2022/12/10 整理 `img-folder` 重新规划 `不然以后找不到了呢`
+#### 2022/12/10 整理且重新规划 `img-folder` `不然以后找不到了呢`
 ---
 ##### Library used for [SunRyK](https://github.com/SmallK111407) & [zhou-hack](https://github.com/zhou-hack) Personaly
 
