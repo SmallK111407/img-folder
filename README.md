@@ -5,6 +5,6 @@
 ---
 ##### Library used for [SunRyK](../../..) & [zhou-hack](https://github.com/zhou-hack) Personaly
 
-#### 本仓库遵循[MIT](../LICENSE)协议
+#### 本仓库遵循[MIT](../blob/main/LICENSE)协议
 
 ![image.png](https://i.postimg.cc/4yCtqwLj/image.png)
