@@ -7,4 +7,4 @@
 
 #### 本仓库遵循[MIT](../main/LICENSE)协议
 
-![image.png](../resources/MISC/image.png)
+![image.png](../main/resources/MISC/image.png)
